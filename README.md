@@ -42,7 +42,7 @@ In order to show your changes to others, use the `Push` icon (blue arrow pointin
 
 `merge` combines two branches into one branch
 
-**You can use all same actions using the Git Bash console. [See basic guide}(https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html).**
+**You can use all same actions using the Git Bash console. [See basic guide](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html).**
 
 ---
 
