@@ -42,6 +42,9 @@ In order to show your changes to others, use the `Push` icon (blue arrow pointin
 
 `merge` combines two branches into one branch
 
+**You can use all same actions using the Git Bash console. [See basic guide}(https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html).**
+
+---
 
 ### Installation
 You need both Node.js and NW (formerly Node-Webkit) to be present on your computer. 
@@ -51,6 +54,8 @@ Start by downloading Node.js [here](https://nodejs.org/en/). It's recommended to
 Download NW [from here](http://nwjs.io/). Select the stable version.
 
 **You may install the programs wherever you like on your computer, as long as you know where to find them.**
+
+---
 
 ### Programming Environment (IDE)
 Download [Webstorm](https://www.jetbrains.com/webstorm/). This will be the software you use the most.
