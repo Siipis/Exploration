@@ -12,5 +12,8 @@
     "position": "center",
 
     "toolbar": false
+  },
+  "scripts": {
+    "start": "nw"
   }
 }
